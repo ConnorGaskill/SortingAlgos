@@ -16,7 +16,7 @@ namespace SortingAlgos
 
             // usage 100 thousand values
             //stopwatch.Start();
-            int[] largeArr = GenerateRandomArray(10, 1, 1000);
+            int[] largeArr = GenerateRandomArray(100000, 1, 1000);
             //stopwatch.Stop();
             //DisplayRuntime(stopwatch);
 
